@@ -1,0 +1,28 @@
+/* Upload.css */
+
+.upload-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: #f4f4f4;
+    padding: 2rem;
+    border-radius: 8px;
+  }
+  
+  .upload-container h2 {
+    color: #007bff;
+  }
+  
+  .upload-container input {
+    margin-bottom: 1rem;
+  }
+  
+  .upload-container button {
+    padding: 0.5rem;
+    border: none;
+    border-radius: 4px;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+  }
+  
